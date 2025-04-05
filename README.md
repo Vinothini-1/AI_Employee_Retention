@@ -20,7 +20,7 @@ Frontend:
 
 React.js (with Context API or Redux for state management)
 
-Tailwind CSS or Bootstrap for styling
+
 
 Backend:
 
@@ -48,14 +48,7 @@ Improve employee engagement and retention
 
 Enhance organizational growth and workplace satisfaction
 
-📂 Project Structure
-bash
-Copy
-Edit
-/client         # React frontend
-/server         # Node.js backend
-/ml-model       # Python scripts for ML model training and prediction
-/database       # MongoDB schema and configurations
+
 💡 How It Works
 Employees fill out a survey via the web interface.
 
